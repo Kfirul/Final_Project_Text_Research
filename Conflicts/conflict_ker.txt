@@ -1,0 +1,1576 @@
+﻿Conflict found for meaning 'to, for': Pair ('lK', 'lhqy$);') counter=12
+Transformed text 1: 'לך'
+Transformed text 2: 'להקישא;'
+------
+Conflict found for meaning 'to change (trans.) | to remove | to move around from place to place | to reply': Pair ('l$nwyy', 'w$ny') counter=3
+Transformed text 1: 'ושני'
+Transformed text 2: 'לשנויי'
+------
+Conflict found for meaning 'to change (trans.) | to remove | to move around from place to place | to reply': Pair ('d$nwyy', 'l$nwyy') counter=2
+Transformed text 1: 'לשנויי'
+Transformed text 2: 'דשנויי'
+------
+Conflict found for meaning 'to change (trans.) | to remove | to move around from place to place | to reply': Pair ('l$nwyy', 'm$ny') counter=4
+Transformed text 1: 'לשנויי'
+Transformed text 2: 'משני'
+------
+Conflict found for meaning 'to change (trans.) | to remove | to move around from place to place | to reply': Pair ('l$nwyy', 'm$nynN;') counter=2
+Transformed text 1: 'לשנויי'
+Transformed text 2: 'משנינן;'
+------
+Conflict found for meaning 'to change (trans.) | to remove | to move around from place to place | to reply': Pair ('l$nwyy', 'l$nwyy') counter=2
+Transformed text 1: 'לשנויי'
+Transformed text 2: 'לשנויי'
+------
+Conflict found for meaning 'to change (trans.) | to remove | to move around from place to place | to reply': Pair ('l$nwyy', 'm$ny;') counter=2
+Transformed text 1: 'לשנויי'
+Transformed text 2: 'משני;'
+------
+Conflict found for meaning 'in, with': Pair ('bhw', 'bhyq$);') counter=8
+Transformed text 1: 'בהו'
+Transformed text 2: 'בהיקשא;'
+------
+Conflict found for meaning 'to change (trans.) | to remove | to move around from place to place | to reply': Pair ('d$ny', 'w$ny') counter=2
+Transformed text 1: 'דשני'
+Transformed text 2: 'ושני'
+------
+Conflict found for meaning 'to change (trans.) | to remove | to move around from place to place | to reply': Pair ('d$nwyy', 'd$ny') counter=2
+Transformed text 1: 'דשני'
+Transformed text 2: 'דשנויי'
+------
+Conflict found for meaning 'to change (trans.) | to remove | to move around from place to place | to reply': Pair ('d$ny', 'm$ny') counter=4
+Transformed text 1: 'דשני'
+Transformed text 2: 'משני'
+------
+Conflict found for meaning 'to change (trans.) | to remove | to move around from place to place | to reply': Pair ('d$ny', 'm$nynN;') counter=2
+Transformed text 1: 'דשני'
+Transformed text 2: 'משנינן;'
+------
+Conflict found for meaning 'to change (trans.) | to remove | to move around from place to place | to reply': Pair ('d$ny', 'l$nwyy') counter=2
+Transformed text 1: 'דשני'
+Transformed text 2: 'לשנויי'
+------
+Conflict found for meaning 'to change (trans.) | to remove | to move around from place to place | to reply': Pair ('d$ny', 'm$ny;') counter=2
+Transformed text 1: 'דשני'
+Transformed text 2: 'משני;'
+------
+Conflict found for meaning 'in, with': Pair ('bhyq$);', 'byh') counter=12
+Transformed text 1: 'ביה'
+Transformed text 2: 'בהיקשא;'
+------
+Conflict found for meaning 'where': Pair ('hyk)', 'kl hky;') counter=6
+Transformed text 1: 'כל הכי;'
+Transformed text 2: 'היכא'
+------
+Conflict found for meaning 'where': Pair ('kl hky;', 'mhyk)') counter=1
+Transformed text 1: 'כל הכי;'
+Transformed text 2: 'מהיכא'
+------
+Conflict found for meaning 'to change (trans.) | to remove | to move around from place to place | to reply': Pair ('ly$ny', 'w$ny') counter=2
+Transformed text 1: 'לישני'
+Transformed text 2: 'ושני'
+------
+Conflict found for meaning 'to change (trans.) | to remove | to move around from place to place | to reply': Pair ('d$nwyy', 'ly$ny') counter=2
+Transformed text 1: 'לישני'
+Transformed text 2: 'דשנויי'
+------
+Conflict found for meaning 'to change (trans.) | to remove | to move around from place to place | to reply': Pair ('ly$ny', 'm$ny') counter=4
+Transformed text 1: 'לישני'
+Transformed text 2: 'משני'
+------
+Conflict found for meaning 'to change (trans.) | to remove | to move around from place to place | to reply': Pair ('ly$ny', 'm$nynN;') counter=2
+Transformed text 1: 'לישני'
+Transformed text 2: 'משנינן;'
+------
+Conflict found for meaning 'to change (trans.) | to remove | to move around from place to place | to reply': Pair ('l$nwyy', 'ly$ny') counter=2
+Transformed text 1: 'לישני'
+Transformed text 2: 'לשנויי'
+------
+Conflict found for meaning 'to change (trans.) | to remove | to move around from place to place | to reply': Pair ('ly$ny', 'm$ny;') counter=2
+Transformed text 1: 'לישני'
+Transformed text 2: 'משני;'
+------
+Conflict found for meaning 'in, with': Pair ('bh', 'bhyq$);') counter=20
+Transformed text 1: 'בה'
+Transformed text 2: 'בהיקשא;'
+------
+Conflict found for meaning 'word, speech; thing': Pair ('mmyl)', 'myly') counter=23
+Transformed text 1: 'מילי'
+Transformed text 2: 'ממילא'
+------
+Conflict found for meaning 'one another; each other': Pair (')hddy', 'mhddy;') counter=4
+Transformed text 1: 'מהדדי;'
+Transformed text 2: 'אהדדי'
+------
+Conflict found for meaning 'one another; each other': Pair (')hddy', 'hddy;') counter=2
+Transformed text 1: 'הדדי;'
+Transformed text 2: 'אהדדי'
+------
+Conflict found for meaning 'to change (trans.) | to remove | to move around from place to place | to reply': Pair ('w$ny', 'w$ny') counter=1
+Transformed text 1: 'ושני'
+Transformed text 2: 'ושני'
+------
+Conflict found for meaning 'to change (trans.) | to remove | to move around from place to place | to reply': Pair ('d$nwyy', 'w$ny') counter=1
+Transformed text 1: 'ושני'
+Transformed text 2: 'דשנויי'
+------
+Conflict found for meaning 'to change (trans.) | to remove | to move around from place to place | to reply': Pair ('m$ny', 'w$ny') counter=2
+Transformed text 1: 'ושני'
+Transformed text 2: 'משני'
+------
+Conflict found for meaning 'to change (trans.) | to remove | to move around from place to place | to reply': Pair ('m$nynN;', 'w$ny') counter=1
+Transformed text 1: 'ושני'
+Transformed text 2: 'משנינן;'
+------
+Conflict found for meaning 'to change (trans.) | to remove | to move around from place to place | to reply': Pair ('m$ny;', 'w$ny') counter=1
+Transformed text 1: 'ושני'
+Transformed text 2: 'משני;'
+------
+Conflict found for meaning 'to, for': Pair ('<lhw;', 'lhqy$);') counter=1
+Transformed text 1: 'להו;'
+Transformed text 2: 'להקישא;'
+------
+Conflict found for meaning 'what': Pair ('m)y', 'mh') counter=475
+Transformed text 1: 'מאי'
+Transformed text 2: 'מה'
+------
+Conflict found for meaning 'word, speech; thing': Pair ('mmyl)', 'mylt)') counter=22
+Transformed text 1: 'מילתא'
+Transformed text 2: 'ממילא'
+------
+Conflict found for meaning 'in, with': Pair ('bh;', 'bhyq$);') counter=12
+Transformed text 1: 'בה;'
+Transformed text 2: 'בהיקשא;'
+------
+Conflict found for meaning 'to, for': Pair ('lN;', 'lhqy$);') counter=14
+Transformed text 1: 'לן;'
+Transformed text 2: 'להקישא;'
+------
+Conflict found for meaning 'to, for': Pair ('l$wM', 'lhqy$);') counter=2
+Transformed text 1: 'לשום'
+Transformed text 2: 'להקישא;'
+------
+Conflict found for meaning 'to, for': Pair ('lhqy$);', 'lyh') counter=139
+Transformed text 1: 'ליה'
+Transformed text 2: 'להקישא;'
+------
+Conflict found for meaning 'to, for': Pair ('lh', 'lhqy$);') counter=40
+Transformed text 1: 'לה'
+Transformed text 2: 'להקישא;'
+------
+Conflict found for meaning 'again': Pair ('<tw', 'twb') counter=10
+Transformed text 1: 'תו'
+Transformed text 2: 'תוב'
+------
+Conflict found for meaning 'again': Pair ('<tw', 'twb;') counter=2
+Transformed text 1: 'תו'
+Transformed text 2: 'תוב;'
+------
+Conflict found for meaning 'other': Pair (')wxrn)', ')xryty#10#>;') counter=1
+Transformed text 1: 'אחריתי;'
+Transformed text 2: 'אוחרנא'
+------
+Conflict found for meaning 'why?': Pair ('^)lm)^', 'lmh') counter=11
+Transformed text 1: 'אלמא'
+Transformed text 2: 'למה'
+------
+Conflict found for meaning 'why?': Pair (')m)y', '^)lm)^') counter=10
+Transformed text 1: 'אלמא'
+Transformed text 2: 'אמאי'
+------
+Conflict found for meaning 'why?': Pair (')m)y;', '^)lm)^') counter=1
+Transformed text 1: 'אלמא'
+Transformed text 2: 'אמאי;'
+------
+Conflict found for meaning 'why?': Pair (')?m?)^y^', '^)lm)^') counter=1
+Transformed text 1: 'אלמא'
+Transformed text 2: 'אמאי'
+------
+Conflict found for meaning 'from': Pair ('mhqy$);', 'mynh') counter=11
+Transformed text 1: 'מינה'
+Transformed text 2: 'מהקישא;'
+------
+Conflict found for meaning 'to, for': Pair ('lhqy$);', 'lhw') counter=35
+Transformed text 1: 'להו'
+Transformed text 2: 'להקישא;'
+------
+Conflict found for meaning 'other': Pair (')wxrn)', ')xryty;') counter=2
+Transformed text 1: 'אחריתי;'
+Transformed text 2: 'אוחרנא'
+------
+Conflict found for meaning 'in, with': Pair ('bhyq$);', 'byh^') counter=1
+Transformed text 1: 'ביה'
+Transformed text 2: 'בהיקשא;'
+------
+Conflict found for meaning 'why?': Pair (')lm)', 'lmh') counter=30
+Transformed text 1: 'למה'
+Transformed text 2: 'אלמא'
+------
+Conflict found for meaning 'why?': Pair (')lm)', ')m)y') counter=28
+Transformed text 1: 'אמאי'
+Transformed text 2: 'אלמא'
+------
+Conflict found for meaning 'why?': Pair (')lm)', ')m)y;') counter=4
+Transformed text 1: 'אמאי;'
+Transformed text 2: 'אלמא'
+------
+Conflict found for meaning 'why?': Pair (')?m?)^y^', ')lm)') counter=2
+Transformed text 1: 'אלמא'
+Transformed text 2: 'אמאי'
+------
+Conflict found for meaning 'from': Pair ('mhqy$);', 'mynh^;') counter=1
+Transformed text 1: 'מינה;'
+Transformed text 2: 'מהקישא;'
+------
+Conflict found for meaning 'to, for': Pair ('lhqy$);', 'ly') counter=51
+Transformed text 1: 'לי'
+Transformed text 2: 'להקישא;'
+------
+Conflict found for meaning 'when': Pair ('ky', 'lky') counter=223
+Transformed text 1: 'לכי'
+Transformed text 2: 'כי'
+------
+Conflict found for meaning 'when': Pair ('b(ydn)', 'lky') counter=5
+Transformed text 1: 'לכי'
+Transformed text 2: 'בעידנא'
+------
+Conflict found for meaning 'something': Pair (')myd(M', 'mydy') counter=17
+Transformed text 1: 'מידי'
+Transformed text 2: 'אמידעם'
+------
+Conflict found for meaning 'something': Pair ('myd(M', 'mydy') counter=27
+Transformed text 1: 'מידי'
+Transformed text 2: 'מידעם'
+------
+Conflict found for meaning 'other': Pair (')wxrn)', ')xryn)') counter=5
+Transformed text 1: 'אחרינא'
+Transformed text 2: 'אוחרנא'
+------
+Conflict found for meaning 'first': Pair ('qdm)y;', 'qm);') counter=8
+Transformed text 1: 'קמא;'
+Transformed text 2: 'קדמאי;'
+------
+Conflict found for meaning 'first': Pair ('qdm)y', 'qm);') counter=4
+Transformed text 1: 'קמא;'
+Transformed text 2: 'קדמאי'
+------
+Conflict found for meaning 'first': Pair ('qdmyy )th', 'qm);') counter=4
+Transformed text 1: 'קמא;'
+Transformed text 2: 'קדמיי אתה'
+------
+Conflict found for meaning 'first': Pair ('bqdmy)t);', 'qm);') counter=4
+Transformed text 1: 'קמא;'
+Transformed text 2: 'בקדמיאתא;'
+------
+Conflict found for meaning 'first': Pair ('qdm)h;', 'qm);') counter=8
+Transformed text 1: 'קמא;'
+Transformed text 2: 'קדמאה;'
+------
+Conflict found for meaning 'first': Pair ('qdm)h', 'qm);') counter=4
+Transformed text 1: 'קמא;'
+Transformed text 2: 'קדמאה'
+------
+Conflict found for meaning 'first': Pair ('qdmyt)', 'qm);') counter=4
+Transformed text 1: 'קמא;'
+Transformed text 2: 'קדמיתא'
+------
+Conflict found for meaning 'first': Pair ('qdm)y;', 'qm)') counter=10
+Transformed text 1: 'קמא'
+Transformed text 2: 'קדמאי;'
+------
+Conflict found for meaning 'first': Pair ('qdm)y', 'qm)') counter=5
+Transformed text 1: 'קמא'
+Transformed text 2: 'קדמאי'
+------
+Conflict found for meaning 'first': Pair ('qdmyy )th', 'qm)') counter=5
+Transformed text 1: 'קמא'
+Transformed text 2: 'קדמיי אתה'
+------
+Conflict found for meaning 'first': Pair ('bqdmy)t);', 'qm)') counter=5
+Transformed text 1: 'קמא'
+Transformed text 2: 'בקדמיאתא;'
+------
+Conflict found for meaning 'first': Pair ('qdm)h;', 'qm)') counter=10
+Transformed text 1: 'קמא'
+Transformed text 2: 'קדמאה;'
+------
+Conflict found for meaning 'first': Pair ('qdm)h', 'qm)') counter=5
+Transformed text 1: 'קמא'
+Transformed text 2: 'קדמאה'
+------
+Conflict found for meaning 'first': Pair ('qdmyt)', 'qm)') counter=5
+Transformed text 1: 'קמא'
+Transformed text 2: 'קדמיתא'
+------
+Conflict found for meaning 'of, genitive particle': Pair ('dby', 'md)byy') counter=4
+Transformed text 1: 'דבי'
+Transformed text 2: 'מדאביי'
+------
+Conflict found for meaning 'to, for': Pair ('lhqy$);', 'lry$ lqy$') counter=3
+Transformed text 1: 'לריש לקיש'
+Transformed text 2: 'להקישא;'
+------
+Conflict found for meaning 'to, for': Pair ('lhqy$);', 'lhw;') counter=17
+Transformed text 1: 'להו;'
+Transformed text 2: 'להקישא;'
+------
+Conflict found for meaning 'where': Pair ('hyk)', 'kl hyk)') counter=52
+Transformed text 1: 'היכא'
+Transformed text 2: 'כל היכא'
+------
+Conflict found for meaning 'fixing': Pair ('mqb()', 'qby(wt)') counter=2
+Transformed text 1: 'מקבעא'
+Transformed text 2: 'קביעותא'
+------
+Conflict found for meaning 'here': Pair ('hk)', 'k)N') counter=209
+Transformed text 1: 'כאן'
+Transformed text 2: 'הכא'
+------
+Conflict found for meaning 'here': Pair ('hk)', 'k(N') counter=70
+Transformed text 1: 'הכא'
+Transformed text 2: 'כען'
+------
+Conflict found for meaning 'before': Pair ('mN qmy', 'qmy') counter=3
+Transformed text 1: 'קמי'
+Transformed text 2: 'מן קמי'
+------
+Conflict found for meaning 'before': Pair ('lqmy', 'qmy') counter=3
+Transformed text 1: 'קמי'
+Transformed text 2: 'לקמי'
+------
+Conflict found for meaning 'before': Pair ('lqmyh', 'qmy') counter=15
+Transformed text 1: 'לקמיה'
+Transformed text 2: 'קמי'
+------
+Conflict found for meaning 'before': Pair ('myqmy', 'qmy') counter=6
+Transformed text 1: 'קמי'
+Transformed text 2: 'מיקמי'
+------
+Conflict found for meaning 'other': Pair (')wxrn)', ')xryn);') counter=2
+Transformed text 1: 'אחרינא;'
+Transformed text 2: 'אוחרנא'
+------
+Conflict found for meaning 'who,which (relative) | when': Pair ('db(ydn)', 'dky') counter=8
+Transformed text 1: 'דכי'
+Transformed text 2: 'דבעידנא'
+------
+Conflict found for meaning 'to, for': Pair ('lhqy$);', 'lyh;') counter=68
+Transformed text 1: 'ליה;'
+Transformed text 2: 'להקישא;'
+------
+Conflict found for meaning 'in, with': Pair ('bhyq$);', 'byh;') counter=12
+Transformed text 1: 'ביה;'
+Transformed text 2: 'בהיקשא;'
+------
+Conflict found for meaning 'one another; each other': Pair ('hddy;', 'mhddy;') counter=4
+Transformed text 1: 'הדדי;'
+Transformed text 2: 'מהדדי;'
+------
+Conflict found for meaning 'one another; each other': Pair (')hddy;', 'mhddy;') counter=10
+Transformed text 1: 'אהדדי;'
+Transformed text 2: 'מהדדי;'
+------
+Conflict found for meaning 'one another; each other': Pair ('hddy;', 'mhddy') counter=1
+Transformed text 1: 'מהדדי'
+Transformed text 2: 'הדדי;'
+------
+Conflict found for meaning 'one another; each other': Pair (')hddy', 'mhddy') counter=1
+Transformed text 1: 'מהדדי'
+Transformed text 2: 'אהדדי'
+------
+Conflict found for meaning 'one another; each other': Pair (')hddy;', 'mhddy') counter=1
+Transformed text 1: 'מהדדי'
+Transformed text 2: 'אהדדי;'
+------
+Conflict found for meaning 'in, with': Pair ('bhy;', 'bhyq$);') counter=1
+Transformed text 1: 'בהי;'
+Transformed text 2: 'בהיקשא;'
+------
+Conflict found for meaning 'what': Pair ('+^m)y;', 'mh') counter=9
+Transformed text 1: 'מה'
+Transformed text 2: 'מאי;'
+------
+Conflict found for meaning 'what': Pair ('m)y;', 'mh') counter=24
+Transformed text 1: 'מאי;'
+Transformed text 2: 'מה'
+------
+Conflict found for meaning 'like': Pair ('kwwtyh;', 'ky') counter=16
+Transformed text 1: 'כוותיה;'
+Transformed text 2: 'כי'
+------
+Conflict found for meaning 'of, genitive particle': Pair ("db'r", 'md)byy') counter=1
+Transformed text 1: 'דב'ר'
+Transformed text 2: 'מדאביי'
+------
+Conflict found for meaning 'like': Pair ('kwwtK', 'ky') counter=15
+Transformed text 1: 'כי'
+Transformed text 2: 'כוותך'
+------
+Conflict found for meaning 'like': Pair ('kwwtyh', 'ky') counter=30
+Transformed text 1: 'כי'
+Transformed text 2: 'כוותיה'
+------
+Conflict found for meaning 'eternity; world': Pair ('b(lm)', 'm(lm)') counter=5
+Transformed text 1: 'מעלמא'
+Transformed text 2: 'בעלמא'
+------
+Conflict found for meaning 'eternity; world': Pair ("b(lm'", 'm(lm)') counter=2
+Transformed text 1: 'מעלמא'
+Transformed text 2: 'בעלמ''
+------
+Conflict found for meaning 'eternity; world': Pair ('(lm);', 'm(lm)') counter=4
+Transformed text 1: 'מעלמא'
+Transformed text 2: 'עלמא;'
+------
+Conflict found for meaning 'of, genitive particle': Pair ('d$mw)l', 'md)byy') counter=3
+Transformed text 1: 'דשמואל'
+Transformed text 2: 'מדאביי'
+------
+Conflict found for meaning 'word, speech; thing': Pair ('mmyl)', 'mmyltyhw;') counter=1
+Transformed text 1: 'ממילתיהו;'
+Transformed text 2: 'ממילא'
+------
+Conflict found for meaning 'of, genitive particle': Pair ('drb)', 'md)byy') counter=5
+Transformed text 1: 'דרבא'
+Transformed text 2: 'מדאביי'
+------
+Conflict found for meaning 'to, for': Pair ('lhqy$);', 'lhy') counter=1
+Transformed text 1: 'להי'
+Transformed text 2: 'להקישא;'
+------
+Conflict found for meaning 'to, for': Pair ('lh;', 'lhqy$);') counter=16
+Transformed text 1: 'לה;'
+Transformed text 2: 'להקישא;'
+------
+Conflict found for meaning 'three': Pair ('mtltyN', 'tlth') counter=20
+Transformed text 1: 'תלתה'
+Transformed text 2: 'מתלתין'
+------
+Conflict found for meaning 'of, genitive particle': Pair ('dyhwdh', 'md)byy') counter=1
+Transformed text 1: 'דיהודה'
+Transformed text 2: 'מדאביי'
+------
+Conflict found for meaning 'of, genitive particle': Pair ("dr'", 'md)byy') counter=19
+Transformed text 1: 'דר''
+Transformed text 2: 'מדאביי'
+------
+Conflict found for meaning 'like': Pair ('kwwtK', 'lky') counter=1
+Transformed text 1: 'לכי'
+Transformed text 2: 'כוותך'
+------
+Conflict found for meaning 'like': Pair ('kwwtyh', 'lky') counter=2
+Transformed text 1: 'לכי'
+Transformed text 2: 'כוותיה'
+------
+Conflict found for meaning 'of, genitive particle': Pair ('d$mw)l;', 'md)byy') counter=2
+Transformed text 1: 'דשמואל;'
+Transformed text 2: 'מדאביי'
+------
+Conflict found for meaning 'when': Pair ('b(ydn)', 'ky') counter=33
+Transformed text 1: 'כי'
+Transformed text 2: 'בעידנא'
+------
+Conflict found for meaning 'this (f.)': Pair ('h)', 'hd)') counter=105
+Transformed text 1: 'הא'
+Transformed text 2: 'הדא'
+------
+Conflict found for meaning 'this (f.)': Pair (')hd);', 'h)') counter=35
+Transformed text 1: 'הא'
+Transformed text 2: 'אהדא;'
+------
+Conflict found for meaning 'this (f.)': Pair ('h)', 'hd);') counter=35
+Transformed text 1: 'הא'
+Transformed text 2: 'הדא;'
+------
+Conflict found for meaning 'this (f.)': Pair ('h)', 'mhd)') counter=35
+Transformed text 1: 'הא'
+Transformed text 2: 'מהדא'
+------
+Conflict found for meaning 'first': Pair ('qdm)y;', 'qmyt)') counter=4
+Transformed text 1: 'קמיתא'
+Transformed text 2: 'קדמאי;'
+------
+Conflict found for meaning 'first': Pair ('qdm)y', 'qmyt)') counter=2
+Transformed text 1: 'קמיתא'
+Transformed text 2: 'קדמאי'
+------
+Conflict found for meaning 'first': Pair ('qdmyy )th', 'qmyt)') counter=2
+Transformed text 1: 'קמיתא'
+Transformed text 2: 'קדמיי אתה'
+------
+Conflict found for meaning 'first': Pair ('bqdmy)t);', 'qmyt)') counter=2
+Transformed text 1: 'קמיתא'
+Transformed text 2: 'בקדמיאתא;'
+------
+Conflict found for meaning 'first': Pair ('qdm)h;', 'qmyt)') counter=4
+Transformed text 1: 'קמיתא'
+Transformed text 2: 'קדמאה;'
+------
+Conflict found for meaning 'first': Pair ('qdm)h', 'qmyt)') counter=2
+Transformed text 1: 'קמיתא'
+Transformed text 2: 'קדמאה'
+------
+Conflict found for meaning 'first': Pair ('qdmyt)', 'qmyt)') counter=2
+Transformed text 1: 'קמיתא'
+Transformed text 2: 'קדמיתא'
+------
+Conflict found for meaning 'who,which (relative) | he': Pair ('d)yhw', 'dhw)') counter=1
+Transformed text 1: 'דאיהו'
+Transformed text 2: 'דהוא'
+------
+Conflict found for meaning 'who,which (relative) | he': Pair ('d)yhw', 'dh^w^)') counter=1
+Transformed text 1: 'דאיהו'
+Transformed text 2: 'דהוא'
+------
+Conflict found for meaning 'word, speech; thing': Pair ('dmymyl)', 'mylt)') counter=4
+Transformed text 1: 'דמימילא'
+Transformed text 2: 'מילתא'
+------
+Conflict found for meaning 'word, speech; thing': Pair ('dmymyl)', 'myly') counter=5
+Transformed text 1: 'דמימילא'
+Transformed text 2: 'מילי'
+------
+Conflict found for meaning 'word, speech; thing': Pair ('dmymyl)', 'mylt);') counter=2
+Transformed text 1: 'דמימילא'
+Transformed text 2: 'מילתא;'
+------
+Conflict found for meaning 'word, speech; thing': Pair ('dmymyl)', 'mylyh') counter=1
+Transformed text 1: 'דמימילא'
+Transformed text 2: 'מיליה'
+------
+Conflict found for meaning 'word, speech; thing': Pair ('dmymyl)', 'myly;') counter=1
+Transformed text 1: 'דמימילא'
+Transformed text 2: 'מילי;'
+------
+Conflict found for meaning 'why?': Pair (')m)y', 'lmh') counter=84
+Transformed text 1: 'אמאי'
+Transformed text 2: 'למה'
+------
+Conflict found for meaning 'why?': Pair (")lm'", 'lmh') counter=4
+Transformed text 1: 'למה'
+Transformed text 2: 'אלמ''
+------
+Conflict found for meaning 'why?': Pair (')m)y;', 'lmh') counter=15
+Transformed text 1: 'למה'
+Transformed text 2: 'אמאי;'
+------
+Conflict found for meaning 'why?': Pair (')?m?)^y^', 'lmh') counter=4
+Transformed text 1: 'למה'
+Transformed text 2: 'אמאי'
+------
+Conflict found for meaning 'to, for': Pair ('lN', 'lhqy$);') counter=12
+Transformed text 1: 'לן'
+Transformed text 2: 'להקישא;'
+------
+Conflict found for meaning 'before': Pair ('mN qmy', 'qmyh') counter=16
+Transformed text 1: 'קמיה'
+Transformed text 2: 'מן קמי'
+------
+Conflict found for meaning 'before': Pair ('lqmy', 'qmyh') counter=16
+Transformed text 1: 'קמיה'
+Transformed text 2: 'לקמי'
+------
+Conflict found for meaning 'before': Pair ('lqmyh', 'qmyh') counter=47
+Transformed text 1: 'לקמיה'
+Transformed text 2: 'קמיה'
+------
+Conflict found for meaning 'before': Pair ('myqmy', 'qmyh') counter=21
+Transformed text 1: 'קמיה'
+Transformed text 2: 'מיקמי'
+------
+Conflict found for meaning 'of, genitive particle': Pair ('dbr pd);', 'md)byy') counter=1
+Transformed text 1: 'דבר פדא;'
+Transformed text 2: 'מדאביי'
+------
+Conflict found for meaning 'he': Pair ('hw)', 'nyhw;') counter=50
+Transformed text 1: 'ניהו;'
+Transformed text 2: 'הוא'
+------
+Conflict found for meaning 'he': Pair ('hw);', 'nyhw;') counter=40
+Transformed text 1: 'ניהו;'
+Transformed text 2: 'הוא;'
+------
+Conflict found for meaning 'word, speech; thing': Pair ('mmyl);', 'mylt)') counter=8
+Transformed text 1: 'ממילא;'
+Transformed text 2: 'מילתא'
+------
+Conflict found for meaning 'word, speech; thing': Pair ('mmyl);', 'myly') counter=10
+Transformed text 1: 'ממילא;'
+Transformed text 2: 'מילי'
+------
+Conflict found for meaning 'word, speech; thing': Pair ('mmyl);', 'mylt);') counter=4
+Transformed text 1: 'ממילא;'
+Transformed text 2: 'מילתא;'
+------
+Conflict found for meaning 'word, speech; thing': Pair ('mmyl);', 'mylyh') counter=2
+Transformed text 1: 'ממילא;'
+Transformed text 2: 'מיליה'
+------
+Conflict found for meaning 'word, speech; thing': Pair ('mmyl);', 'myly;') counter=2
+Transformed text 1: 'ממילא;'
+Transformed text 2: 'מילי;'
+------
+Conflict found for meaning 'here': Pair ('k)N', '{)y}<h>k)') counter=4
+Transformed text 1: 'הכא'
+Transformed text 2: 'כאן'
+------
+Conflict found for meaning 'here': Pair ('k(N', '{)y}<h>k)') counter=2
+Transformed text 1: 'הכא'
+Transformed text 2: 'כען'
+------
+Conflict found for meaning 'he': Pair (')yhw', 'hw)') counter=125
+Transformed text 1: 'איהו'
+Transformed text 2: 'הוא'
+------
+Conflict found for meaning 'he': Pair (')yhw', 'hw);') counter=100
+Transformed text 1: 'איהו'
+Transformed text 2: 'הוא;'
+------
+Conflict found for meaning 'word, speech; thing': Pair ('mmyl)', 'mylt);') counter=7
+Transformed text 1: 'מילתא;'
+Transformed text 2: 'ממילא'
+------
+Conflict found for meaning 'word, speech; thing': Pair ('mmyl)', 'mylyh') counter=2
+Transformed text 1: 'ממילא'
+Transformed text 2: 'מיליה'
+------
+Conflict found for meaning 'word, speech; thing': Pair ('mmyl)', 'myly;') counter=2
+Transformed text 1: 'ממילא'
+Transformed text 2: 'מילי;'
+------
+Conflict found for meaning 'because, since': Pair ('))ydy{h}', 'm$wM') counter=17
+Transformed text 1: 'אאידי'
+Transformed text 2: 'משום'
+------
+Conflict found for meaning 'who?': Pair ('km)N', 'mny') counter=4
+Transformed text 1: 'כמאן'
+Transformed text 2: 'מני'
+------
+Conflict found for meaning 'who?': Pair ('km)N', 'mny;') counter=8
+Transformed text 1: 'כמאן'
+Transformed text 2: 'מני;'
+------
+Conflict found for meaning 'to, for': Pair ('lhqy$);', "lr'") counter=11
+Transformed text 1: 'לר''
+Transformed text 2: 'להקישא;'
+------
+Conflict found for meaning 'before': Pair ('myqmy', 'qmyh;') counter=2
+Transformed text 1: 'מיקמי'
+Transformed text 2: 'קמיה;'
+------
+Conflict found for meaning 'before': Pair ('lqmy', 'myqmy') counter=1
+Transformed text 1: 'מיקמי'
+Transformed text 2: 'לקמי'
+------
+Conflict found for meaning 'before': Pair ('lqmyh', 'myqmy') counter=5
+Transformed text 1: 'לקמיה'
+Transformed text 2: 'מיקמי'
+------
+Conflict found for meaning 'after': Pair ('btr', 'lbtr') counter=30
+Transformed text 1: 'בתר'
+Transformed text 2: 'לבתר'
+------
+Conflict found for meaning 'beautiful': Pair ('$pyr', 'y)yy;') counter=8
+Transformed text 1: 'שפיר'
+Transformed text 2: 'יאיי;'
+------
+Conflict found for meaning 'beautiful': Pair ('$pyr', 'y)yy') counter=4
+Transformed text 1: 'שפיר'
+Transformed text 2: 'יאיי'
+------
+Conflict found for meaning 'word, speech; thing': Pair ('mmyl)', 'myltyh') counter=1
+Transformed text 1: 'מילתיה'
+Transformed text 2: 'ממילא'
+------
+Conflict found for meaning 'where': Pair ('kl hyk)', 'mhyk)') counter=5
+Transformed text 1: 'כל היכא'
+Transformed text 2: 'מהיכא'
+------
+Conflict found for meaning 'in, with': Pair ('bhy', 'bhyq$);') counter=1
+Transformed text 1: 'בהי'
+Transformed text 2: 'בהיקשא;'
+------
+Conflict found for meaning 'of, genitive particle': Pair ('drb', 'md)byy') counter=3
+Transformed text 1: 'דרב'
+Transformed text 2: 'מדאביי'
+------
+Conflict found for meaning 'to, for': Pair ('l)rgyzy);', 'lhqy$);') counter=1
+Transformed text 1: 'לארגיזיא;'
+Transformed text 2: 'להקישא;'
+------
+Conflict found for meaning 'in, with | this (f.)': Pair ('bh)', 'bhd)') counter=7
+Transformed text 1: 'בהא'
+Transformed text 2: 'בהדא'
+------
+Conflict found for meaning 'in, with | this (f.)': Pair ('bh)', 'bhd);') counter=7
+Transformed text 1: 'בהא'
+Transformed text 2: 'בהדא;'
+------
+Conflict found for meaning 'who?': Pair ('m)N', 'mny') counter=24
+Transformed text 1: 'מאן'
+Transformed text 2: 'מני'
+------
+Conflict found for meaning 'who?': Pair ('m)N', 'mny;') counter=38
+Transformed text 1: 'מאן'
+Transformed text 2: 'מני;'
+------
+Conflict found for meaning 'of, genitive particle': Pair ('dywzgyrd', 'md)byy') counter=1
+Transformed text 1: 'דיוזגירד'
+Transformed text 2: 'מדאביי'
+------
+Conflict found for meaning 'to go, move along | to go away | as co-verb : to go ahead and do something | to be going on, to be happening (colloquial only?)': Pair ('dq)', 'zyl{)}') counter=1
+Transformed text 1: 'דקא'
+Transformed text 2: 'זיל'
+------
+Conflict found for meaning 'to go, move along | to go away | as co-verb : to go ahead and do something | to be going on, to be happening (colloquial only?)': Pair (')zl)', 'dq)') counter=2
+Transformed text 1: 'דקא'
+Transformed text 2: 'אזלא'
+------
+Conflict found for meaning 'to go, move along | to go away | as co-verb : to go ahead and do something | to be going on, to be happening (colloquial only?)': Pair ('dq)', 'dzyl') counter=1
+Transformed text 1: 'דקא'
+Transformed text 2: 'דזיל'
+------
+Conflict found for meaning 'to go, move along | to go away | as co-verb : to go ahead and do something | to be going on, to be happening (colloquial only?)': Pair ('dq)', 'tyzlw') counter=1
+Transformed text 1: 'דקא'
+Transformed text 2: 'תיזלו'
+------
+Conflict found for meaning 'to go, move along | to go away | as co-verb : to go ahead and do something | to be going on, to be happening (colloquial only?)': Pair ('d)zyl', 'dq)') counter=1
+Transformed text 1: 'דקא'
+Transformed text 2: 'דאזיל'
+------
+Conflict found for meaning 'to go, move along | to go away | as co-verb : to go ahead and do something | to be going on, to be happening (colloquial only?)': Pair (')zlyN', 'dq)') counter=1
+Transformed text 1: 'דקא'
+Transformed text 2: 'אזלין'
+------
+Conflict found for meaning 'to, for': Pair ('lK;', 'lhqy$);') counter=7
+Transformed text 1: 'לך;'
+Transformed text 2: 'להקישא;'
+------
+Conflict found for meaning 'why?': Pair (')m)y', 'lm)') counter=110
+Transformed text 1: 'למא'
+Transformed text 2: 'אמאי'
+------
+Conflict found for meaning 'why?': Pair (')lm)', 'lm)') counter=22
+Transformed text 1: 'למא'
+Transformed text 2: 'אלמא'
+------
+Conflict found for meaning 'why?': Pair (")lm'", 'lm)') counter=11
+Transformed text 1: 'למא'
+Transformed text 2: 'אלמ''
+------
+Conflict found for meaning 'why?': Pair (')m)y;', 'lm)') counter=11
+Transformed text 1: 'למא'
+Transformed text 2: 'אמאי;'
+------
+Conflict found for meaning 'why?': Pair (')?m?)^y^', 'lm)') counter=11
+Transformed text 1: 'למא'
+Transformed text 2: 'אמאי'
+------
+Conflict found for meaning 'when': Pair ('b(ydn)', 'wky') counter=1
+Transformed text 1: 'וכי'
+Transformed text 2: 'בעידנא'
+------
+Conflict found for meaning 'of, genitive particle': Pair ('dy', 'mdrbnN;') counter=1
+Transformed text 1: 'מדרבנן;'
+Transformed text 2: 'די'
+------
+Conflict found for meaning 'of, genitive particle': Pair ('dpwM bdyt);', 'mdrbnN;') counter=1
+Transformed text 1: 'מדרבנן;'
+Transformed text 2: 'דפום בדיתא;'
+------
+Conflict found for meaning 'of, genitive particle': Pair ("dr'", 'mdrbnN;') counter=7
+Transformed text 1: 'מדרבנן;'
+Transformed text 2: 'דר''
+------
+Conflict found for meaning 'of, genitive particle': Pair ('dynwq)', 'mdrbnN;') counter=1
+Transformed text 1: 'מדרבנן;'
+Transformed text 2: 'דינוקא'
+------
+Conflict found for meaning 'of, genitive particle': Pair ('d(lm);', 'mdrbnN;') counter=1
+Transformed text 1: 'מדרבנן;'
+Transformed text 2: 'דעלמא;'
+------
+Conflict found for meaning 'of, genitive particle': Pair ('drb);', 'mdrbnN;') counter=1
+Transformed text 1: 'מדרבנן;'
+Transformed text 2: 'דרבא;'
+------
+Conflict found for meaning 'of, genitive particle': Pair ('drb', 'mdrbnN;') counter=1
+Transformed text 1: 'מדרבנן;'
+Transformed text 2: 'דרב'
+------
+Conflict found for meaning 'from': Pair ('mhqy$);', 'mnyh') counter=10
+Transformed text 1: 'מניה'
+Transformed text 2: 'מהקישא;'
+------
+Conflict found for meaning 'to be | to endure, to exist | to come to pass, to happen | in idioms:': Pair ('!d!lhwy', 'hwy;') counter=5
+Transformed text 1: 'דלהוי'
+Transformed text 2: 'הוי;'
+------
+Conflict found for meaning 'to be | to endure, to exist | to come to pass, to happen | in idioms:': Pair ('!d!lhwy', 'nhy') counter=6
+Transformed text 1: 'דלהוי'
+Transformed text 2: 'נהי'
+------
+Conflict found for meaning 'to be | to endure, to exist | to come to pass, to happen | in idioms:': Pair ('!d!lhwy', 'hwh') counter=20
+Transformed text 1: 'דלהוי'
+Transformed text 2: 'הוה'
+------
+Conflict found for meaning 'to be | to endure, to exist | to come to pass, to happen | in idioms:': Pair ('!d!lhwy', 'dhwy') counter=4
+Transformed text 1: 'דלהוי'
+Transformed text 2: 'דהוי'
+------
+Conflict found for meaning 'to be | to endure, to exist | to come to pass, to happen | in idioms:': Pair ('!d!lhwy', 'hwyyN;') counter=2
+Transformed text 1: 'דלהוי'
+Transformed text 2: 'הויין;'
+------
+Conflict found for meaning 'to be | to endure, to exist | to come to pass, to happen | in idioms:': Pair ('!d!lhwy', 'hww') counter=2
+Transformed text 1: 'דלהוי'
+Transformed text 2: 'הוו'
+------
+Conflict found for meaning 'to be | to endure, to exist | to come to pass, to happen | in idioms:': Pair ('!d!lhwy', 'hwy);') counter=3
+Transformed text 1: 'דלהוי'
+Transformed text 2: 'הויא;'
+------
+Conflict found for meaning 'to be | to endure, to exist | to come to pass, to happen | in idioms:': Pair ('!d!lhwy', 'lmyhwh') counter=1
+Transformed text 1: 'דלהוי'
+Transformed text 2: 'למיהוה'
+------
+Conflict found for meaning 'to be | to endure, to exist | to come to pass, to happen | in idioms:': Pair ('!d!lhwy', 'lmyhwy') counter=3
+Transformed text 1: 'דלהוי'
+Transformed text 2: 'למיהוי'
+------
+Conflict found for meaning 'to be | to endure, to exist | to come to pass, to happen | in idioms:': Pair ('!d!lhwy', 'hwy') counter=4
+Transformed text 1: 'דלהוי'
+Transformed text 2: 'הוי'
+------
+Conflict found for meaning 'to be | to endure, to exist | to come to pass, to happen | in idioms:': Pair ('!d!lhwy', 'hw?w?yN;') counter=1
+Transformed text 1: 'דלהוי'
+Transformed text 2: 'הווין;'
+------
+Conflict found for meaning 'to be | to endure, to exist | to come to pass, to happen | in idioms:': Pair ('!d!lhwy', 'th)') counter=1
+Transformed text 1: 'דלהוי'
+Transformed text 2: 'תהא'
+------
+Conflict found for meaning 'to be | to endure, to exist | to come to pass, to happen | in idioms:': Pair ('!d!lhwy', 'dhwh') counter=1
+Transformed text 1: 'דלהוי'
+Transformed text 2: 'דהוה'
+------
+Conflict found for meaning 'to be | to endure, to exist | to come to pass, to happen | in idioms:': Pair ('!d!lhwy', 'hwh;') counter=2
+Transformed text 1: 'דלהוי'
+Transformed text 2: 'הוה;'
+------
+Conflict found for meaning 'to be | to endure, to exist | to come to pass, to happen | in idioms:': Pair ('!d!lhwy', 'lyhwy') counter=1
+Transformed text 1: 'דלהוי'
+Transformed text 2: 'ליהוי'
+------
+Conflict found for meaning 'to be | to endure, to exist | to come to pass, to happen | in idioms:': Pair ('!d!lhwy', 'h?w?y') counter=1
+Transformed text 1: 'דלהוי'
+Transformed text 2: 'הוי'
+------
+Conflict found for meaning 'to be | to endure, to exist | to come to pass, to happen | in idioms:': Pair ('!d!lhwy', 'nyhwy') counter=1
+Transformed text 1: 'דלהוי'
+Transformed text 2: 'ניהוי'
+------
+Conflict found for meaning 'to be | to endure, to exist | to come to pass, to happen | in idioms:': Pair ('!d!lhwy', 'hwy)') counter=1
+Transformed text 1: 'דלהוי'
+Transformed text 2: 'הויא'
+------
+Conflict found for meaning 'like': Pair ("kr'", 'ky') counter=32
+Transformed text 1: 'כר''
+Transformed text 2: 'כי'
+------
+Conflict found for meaning 'like': Pair ("kr'", 'kwwtK') counter=4
+Transformed text 1: 'כר''
+Transformed text 2: 'כוותך'
+------
+Conflict found for meaning 'like': Pair ("kr'", 'kwwtyh') counter=8
+Transformed text 1: 'כר''
+Transformed text 2: 'כוותיה'
+------
+Conflict found for meaning 'person, someone': Pair (')yn$y;', ')yny$') counter=2
+Transformed text 1: 'אינשי;'
+Transformed text 2: 'איניש'
+------
+Conflict found for meaning 'there': Pair ('htM;', 'tmN') counter=1
+Transformed text 1: 'תמן'
+Transformed text 2: 'התם;'
+------
+Conflict found for meaning 'there': Pair ('htM', 'tmN') counter=6
+Transformed text 1: 'תמן'
+Transformed text 2: 'התם'
+------
+Conflict found for meaning 'eternity; world': Pair ('(lm);', 'b(lm);') counter=6
+Transformed text 1: 'בעלמא;'
+Transformed text 2: 'עלמא;'
+------
+Conflict found for meaning 'eternity; world': Pair ('b(lm);', 'm(lm);') counter=3
+Transformed text 1: 'בעלמא;'
+Transformed text 2: 'מעלמא;'
+------
+Conflict found for meaning 'eternity; world': Pair ('b(lm);', 'm(lm)') counter=3
+Transformed text 1: 'בעלמא;'
+Transformed text 2: 'מעלמא'
+------
+Conflict found for meaning 'from': Pair ('mhqy$);', 'mynh;') counter=4
+Transformed text 1: 'מינה;'
+Transformed text 2: 'מהקישא;'
+------
+Conflict found for meaning 'of, genitive particle': Pair ('dry$ lqy$', 'md)byy') counter=1
+Transformed text 1: 'דריש לקיש'
+Transformed text 2: 'מדאביי'
+------
+Conflict found for meaning 'like': Pair ('kwtyh', 'ky') counter=8
+Transformed text 1: 'כותיה'
+Transformed text 2: 'כי'
+------
+Conflict found for meaning 'from': Pair ('mhqy$);', 'mnyhw;') counter=1
+Transformed text 1: 'מניהו;'
+Transformed text 2: 'מהקישא;'
+------
+Conflict found for meaning 'end': Pair ('swp)', 'syp);') counter=2
+Transformed text 1: 'סופא'
+Transformed text 2: 'סיפא;'
+------
+Conflict found for meaning 'end': Pair ('swP swP', 'swp)') counter=5
+Transformed text 1: 'סופא'
+Transformed text 2: 'סוף סוף'
+------
+Conflict found for meaning 'end': Pair ('lbswP;', 'swp)') counter=1
+Transformed text 1: 'סופא'
+Transformed text 2: 'לבסוף;'
+------
+Conflict found for meaning 'end': Pair ('swp)', 'syp)') counter=3
+Transformed text 1: 'סופא'
+Transformed text 2: 'סיפא'
+------
+Conflict found for meaning 'end': Pair ('lybswP;', 'swp)') counter=1
+Transformed text 1: 'סופא'
+Transformed text 2: 'ליבסוף;'
+------
+Conflict found for meaning 'end': Pair ('swp)', "syp'") counter=1
+Transformed text 1: 'סופא'
+Transformed text 2: 'סיפ''
+------
+Conflict found for meaning 'end': Pair ('swp)', "syp';") counter=1
+Transformed text 1: 'סופא'
+Transformed text 2: 'סיפ';'
+------
+Conflict found for meaning 'interrogative particle': Pair ('my', 'mydy') counter=36
+Transformed text 1: 'מידי'
+Transformed text 2: 'מי'
+------
+Conflict found for meaning 'end': Pair ('swP swP', 'syph') counter=10
+Transformed text 1: 'סיפה'
+Transformed text 2: 'סוף סוף'
+------
+Conflict found for meaning 'end': Pair ('lbswP;', 'syph') counter=2
+Transformed text 1: 'סיפה'
+Transformed text 2: 'לבסוף;'
+------
+Conflict found for meaning 'end': Pair ('lybswP;', 'syph') counter=2
+Transformed text 1: 'סיפה'
+Transformed text 2: 'ליבסוף;'
+------
+Conflict found for meaning 'end': Pair ('swP swP', 'syp)') counter=28
+Transformed text 1: 'סיפא'
+Transformed text 2: 'סוף סוף'
+------
+Conflict found for meaning 'end': Pair ('lbswP;', 'syp)') counter=5
+Transformed text 1: 'סיפא'
+Transformed text 2: 'לבסוף;'
+------
+Conflict found for meaning 'end': Pair ('lybswP;', 'syp)') counter=5
+Transformed text 1: 'סיפא'
+Transformed text 2: 'ליבסוף;'
+------
+Conflict found for meaning 'this (f.)': Pair ('h)+', 'hd)') counter=3
+Transformed text 1: 'הא'
+Transformed text 2: 'הדא'
+------
+Conflict found for meaning 'this (f.)': Pair (')hd);', 'h)+') counter=1
+Transformed text 1: 'הא'
+Transformed text 2: 'אהדא;'
+------
+Conflict found for meaning 'this (f.)': Pair ('h)+', 'hd);') counter=1
+Transformed text 1: 'הא'
+Transformed text 2: 'הדא;'
+------
+Conflict found for meaning 'this (f.)': Pair ('h)+', 'mhd)') counter=1
+Transformed text 1: 'הא'
+Transformed text 2: 'מהדא'
+------
+Conflict found for meaning 'again': Pair ('tw', 'twb') counter=10
+Transformed text 1: 'תו'
+Transformed text 2: 'תוב'
+------
+Conflict found for meaning 'again': Pair ('tw', 'twb;') counter=2
+Transformed text 1: 'תו'
+Transformed text 2: 'תוב;'
+------
+Conflict found for meaning 'to, for': Pair ('lhqy$);', 'ly;') counter=16
+Transformed text 1: 'לי;'
+Transformed text 2: 'להקישא;'
+------
+Conflict found for meaning 'because, since': Pair (')ydy', 'm$wM') counter=17
+Transformed text 1: 'אידי'
+Transformed text 2: 'משום'
+------
+Conflict found for meaning 'because, since': Pair (')yd)', 'm$wM') counter=17
+Transformed text 1: 'אידא'
+Transformed text 2: 'משום'
+------
+Conflict found for meaning 'and, also | what': Pair ('wm)y', 'wmh') counter=8
+Transformed text 1: 'ומה'
+Transformed text 2: 'ומאי'
+------
+Conflict found for meaning 'this (f.)': Pair ('hd)', 'myh);') counter=12
+Transformed text 1: 'מיהא;'
+Transformed text 2: 'הדא'
+------
+Conflict found for meaning 'this (f.)': Pair (')hd);', 'myh);') counter=4
+Transformed text 1: 'מיהא;'
+Transformed text 2: 'אהדא;'
+------
+Conflict found for meaning 'this (f.)': Pair ('hd);', 'myh);') counter=4
+Transformed text 1: 'מיהא;'
+Transformed text 2: 'הדא;'
+------
+Conflict found for meaning 'this (f.)': Pair ('mhd)', 'myh);') counter=4
+Transformed text 1: 'מיהא;'
+Transformed text 2: 'מהדא'
+------
+Conflict found for meaning 'with, while': Pair ('bhdy', 'lbhdy') counter=1
+Transformed text 1: 'לבהדי'
+Transformed text 2: 'בהדי'
+------
+Conflict found for meaning 'to, for': Pair ('lhqy$);', 'lmyprK;') counter=2
+Transformed text 1: 'למיפרך;'
+Transformed text 2: 'להקישא;'
+------
+Conflict found for meaning 'in, with': Pair ('bhqy$)', 'byh;') counter=5
+Transformed text 1: 'בהקישא'
+Transformed text 2: 'ביה;'
+------
+Conflict found for meaning 'in, with': Pair ('bhqy$)', 'byh') counter=16
+Transformed text 1: 'בהקישא'
+Transformed text 2: 'ביה'
+------
+Conflict found for meaning 'in, with': Pair ('bhqy$)', 'bymm)') counter=1
+Transformed text 1: 'בהקישא'
+Transformed text 2: 'ביממא'
+------
+Conflict found for meaning 'in, with': Pair ('bhqy$)', 'bqdmy)t);') counter=1
+Transformed text 1: 'בהקישא'
+Transformed text 2: 'בקדמיאתא;'
+------
+Conflict found for meaning 'in, with': Pair ('bhqy$)', 'brby;') counter=1
+Transformed text 1: 'בהקישא'
+Transformed text 2: 'ברבי;'
+------
+Conflict found for meaning 'in, with': Pair ('bhqy$)', 'bhwN') counter=2
+Transformed text 1: 'בהקישא'
+Transformed text 2: 'בהון'
+------
+Conflict found for meaning 'in, with': Pair ('bh;', 'bhqy$)') counter=1
+Transformed text 1: 'בהקישא'
+Transformed text 2: 'בה;'
+------
+Conflict found for meaning 'in, with': Pair ('bh', 'bhqy$)') counter=1
+Transformed text 1: 'בהקישא'
+Transformed text 2: 'בה'
+------
+Conflict found for meaning '(d.o. and w. | ) : to strengthen | to hold on tightly | w.': Pair ('bd)tqpth', 'mtqyP') counter=1
+Transformed text 1: 'מתקיף'
+Transformed text 2: 'בדאתקפתה'
+------
+Conflict found for meaning 'eternity; world': Pair ('(lm);', 'b(lm)') counter=6
+Transformed text 1: 'בעלמא'
+Transformed text 2: 'עלמא;'
+------
+Conflict found for meaning 'eternity; world': Pair ('b(lm)', 'm(lm);') counter=3
+Transformed text 1: 'בעלמא'
+Transformed text 2: 'מעלמא;'
+------
+Conflict found for meaning 'other': Pair (')wxrn)', ')wxrn)') counter=1
+Transformed text 1: 'אוחרנא'
+Transformed text 2: 'אוחרנא'
+------
+Conflict found for meaning 'master, lord': Pair ('mry', 'rbwnkwN;') counter=1
+Transformed text 1: 'מרי'
+Transformed text 2: 'רבונכון;'
+------
+Conflict found for meaning 'master, lord': Pair ('mry', 'rybwnkwN;') counter=1
+Transformed text 1: 'מרי'
+Transformed text 2: 'ריבונכון;'
+------
+Conflict found for meaning 'when': Pair ('b(ydn)', 'dky') counter=1
+Transformed text 1: 'דכי'
+Transformed text 2: 'בעידנא'
+------
+Conflict found for meaning 'to, for': Pair ('lhqy$);', 'lmyprK') counter=2
+Transformed text 1: 'למיפרך'
+Transformed text 2: 'להקישא;'
+------
+Conflict found for meaning 'to, for | one another; each other': Pair ('lhddy', 'lhddy;') counter=1
+Transformed text 1: 'להדדי'
+Transformed text 2: 'להדדי;'
+------
+Conflict found for meaning 'end': Pair (')syp);', 'swP swP') counter=5
+Transformed text 1: 'אסיפא;'
+Transformed text 2: 'סוף סוף'
+------
+Conflict found for meaning 'end': Pair (')syp);', 'lbswP;') counter=1
+Transformed text 1: 'אסיפא;'
+Transformed text 2: 'לבסוף;'
+------
+Conflict found for meaning 'end': Pair (')syp);', 'lybswP;') counter=1
+Transformed text 1: 'אסיפא;'
+Transformed text 2: 'ליבסוף;'
+------
+Conflict found for meaning 'because, since': Pair (')yydy', 'm$wM') counter=34
+Transformed text 1: 'איידי'
+Transformed text 2: 'משום'
+------
+Conflict found for meaning 'beautiful': Pair ('$pyr;', 'y)yy;') counter=2
+Transformed text 1: 'שפיר;'
+Transformed text 2: 'יאיי;'
+------
+Conflict found for meaning 'beautiful': Pair ('$pyr;', 'y)yy') counter=1
+Transformed text 1: 'שפיר;'
+Transformed text 2: 'יאיי'
+------
+Conflict found for meaning 'from': Pair ('mhqy$);', 'mnyh;') counter=2
+Transformed text 1: 'מניה;'
+Transformed text 2: 'מהקישא;'
+------
+Conflict found for meaning 'and, also | why?': Pair ('w)m)y', 'wlm)') counter=2
+Transformed text 1: 'ולמא'
+Transformed text 2: 'ואמאי'
+------
+Conflict found for meaning 'and, also | why?': Pair ('w)m)y;', 'wlm)') counter=1
+Transformed text 1: 'ולמא'
+Transformed text 2: 'ואמאי;'
+------
+Conflict found for meaning 'in, with': Pair ('b(bwdt', 'bhyq$);') counter=1
+Transformed text 1: 'בעבודת'
+Transformed text 2: 'בהיקשא;'
+------
+Conflict found for meaning 'who,which (relative) | exterior': Pair ('dbr)y', 'dbr)y') counter=1
+Transformed text 1: 'דבראי'
+Transformed text 2: 'דבראי'
+------
+Conflict found for meaning 'to, for': Pair ('l?N?', 'lhqy$);') counter=1
+Transformed text 1: 'לן'
+Transformed text 2: 'להקישא;'
+------
+Conflict found for meaning 'why?': Pair (")lm'", ')m)y;') counter=1
+Transformed text 1: 'אמאי;'
+Transformed text 2: 'אלמ''
+------
+Conflict found for meaning 'in, with': Pair ('b(yN (yTM', 'bhyq$);') counter=1
+Transformed text 1: 'בעין עיטם'
+Transformed text 2: 'בהיקשא;'
+------
+Conflict found for meaning 'before': Pair ('mN qmy', 'qmyhw') counter=1
+Transformed text 1: 'קמיהו'
+Transformed text 2: 'מן קמי'
+------
+Conflict found for meaning 'before': Pair ('lqmy', 'qmyhw') counter=1
+Transformed text 1: 'קמיהו'
+Transformed text 2: 'לקמי'
+------
+Conflict found for meaning 'before': Pair ('lqmyh', 'qmyhw') counter=2
+Transformed text 1: 'קמיהו'
+Transformed text 2: 'לקמיה'
+------
+Conflict found for meaning 'before': Pair ('myqmy', 'qmyhw') counter=1
+Transformed text 1: 'קמיהו'
+Transformed text 2: 'מיקמי'
+------
+Conflict found for meaning 'what': Pair ('mh', 'mm)y') counter=1
+Transformed text 1: 'ממאי'
+Transformed text 2: 'מה'
+------
+Conflict found for meaning 'where': Pair ('hyk);', 'kl hyk)') counter=2
+Transformed text 1: 'היכא;'
+Transformed text 2: 'כל היכא'
+------
+Conflict found for meaning 'to seek, look for | to ask a question | to wish for something, want, request | to require': Pair ('b)(y', 'dqb(y') counter=2
+Transformed text 1: 'באעי'
+Transformed text 2: 'דקבעי'
+------
+Conflict found for meaning 'to seek, look for | to ask a question | to wish for something, want, request | to require': Pair ('b)(y', 'qb(y') counter=2
+Transformed text 1: 'באעי'
+Transformed text 2: 'קבעי'
+------
+Conflict found for meaning 'to seek, look for | to ask a question | to wish for something, want, request | to require': Pair ('b()', 'b)(y') counter=3
+Transformed text 1: 'באעי'
+Transformed text 2: 'בעא'
+------
+Conflict found for meaning 'to seek, look for | to ask a question | to wish for something, want, request | to require': Pair ('b(y', 'b)(y') counter=17
+Transformed text 1: 'באעי'
+Transformed text 2: 'בעי'
+------
+Conflict found for meaning 'to seek, look for | to ask a question | to wish for something, want, request | to require': Pair ('b(y;', 'b)(y') counter=4
+Transformed text 1: 'באעי'
+Transformed text 2: 'בעי;'
+------
+Conflict found for meaning 'to seek, look for | to ask a question | to wish for something, want, request | to require': Pair ('b)(y', 'db(y') counter=5
+Transformed text 1: 'באעי'
+Transformed text 2: 'דבעי'
+------
+Conflict found for meaning 'to seek, look for | to ask a question | to wish for something, want, request | to require': Pair ('b)(y', 'wb(y') counter=2
+Transformed text 1: 'באעי'
+Transformed text 2: 'ובעי'
+------
+Conflict found for meaning 'to seek, look for | to ask a question | to wish for something, want, request | to require': Pair ('b(ytwN', 'b)(y') counter=1
+Transformed text 1: 'באעי'
+Transformed text 2: 'בעיתון'
+------
+Conflict found for meaning 'to seek, look for | to ask a question | to wish for something, want, request | to require': Pair ('b)(y', 'db(y)') counter=1
+Transformed text 1: 'באעי'
+Transformed text 2: 'דבעיא'
+------
+Conflict found for meaning 'to seek, look for | to ask a question | to wish for something, want, request | to require': Pair ('b)(y', 'nyb(y') counter=3
+Transformed text 1: 'באעי'
+Transformed text 2: 'ניבעי'
+------
+Conflict found for meaning 'to seek, look for | to ask a question | to wish for something, want, request | to require': Pair (")yb('", 'b)(y') counter=1
+Transformed text 1: 'באעי'
+Transformed text 2: 'איבע''
+------
+Conflict found for meaning 'to seek, look for | to ask a question | to wish for something, want, request | to require': Pair ('b)(y', 'nyb(y;') counter=1
+Transformed text 1: 'באעי'
+Transformed text 2: 'ניבעי;'
+------
+Conflict found for meaning 'to seek, look for | to ask a question | to wish for something, want, request | to require': Pair ('b(nN', 'b)(y') counter=1
+Transformed text 1: 'באעי'
+Transformed text 2: 'בענן'
+------
+Conflict found for meaning 'before': Pair ('lqmyh', 'mN qmy') counter=3
+Transformed text 1: 'לקמיה'
+Transformed text 2: 'מן קמי'
+------
+Conflict found for meaning 'before': Pair ('lqmyh', 'qmyh;') counter=6
+Transformed text 1: 'לקמיה'
+Transformed text 2: 'קמיה;'
+------
+Conflict found for meaning 'to, for': Pair ('lhqy$);', 'lrb;') counter=1
+Transformed text 1: 'לרב;'
+Transformed text 2: 'להקישא;'
+------
+Conflict found for meaning 'here': Pair ('hk);', 'k)N') counter=14
+Transformed text 1: 'כאן'
+Transformed text 2: 'הכא;'
+------
+Conflict found for meaning 'here': Pair ('hk);', 'k(N') counter=4
+Transformed text 1: 'הכא;'
+Transformed text 2: 'כען'
+------
+Conflict found for meaning 'to lie down or crouch down (of -- or in the manner of -- an animal) | to collapse (house)': Pair ('drby(', 'rb(') counter=1
+Transformed text 1: 'דרביע'
+Transformed text 2: 'רבע'
+------
+Conflict found for meaning 'to lie down or crouch down (of -- or in the manner of -- an animal) | to collapse (house)': Pair ('drby(', 'rb(;') counter=1
+Transformed text 1: 'דרביע'
+Transformed text 2: 'רבע;'
+------
+Conflict found for meaning 'in, with': Pair ('bcpwN', 'bhyq$);') counter=1
+Transformed text 1: 'בצפון'
+Transformed text 2: 'בהיקשא;'
+------
+Conflict found for meaning 'from': Pair ('mN', 'mhqy$);') counter=2
+Transformed text 1: 'מן'
+Transformed text 2: 'מהקישא;'
+------
+Conflict found for meaning 'and, also | end': Pair ('wswP', 'wsyp)') counter=4
+Transformed text 1: 'וסיפא'
+Transformed text 2: 'וסוף'
+------
+Conflict found for meaning 'and, also | end': Pair ('wbswP', 'wsyp)') counter=2
+Transformed text 1: 'וסיפא'
+Transformed text 2: 'ובסוף'
+------
+Conflict found for meaning 'middle': Pair ("mcy(t';", 'myc(th') counter=2
+Transformed text 1: 'מיצעתה'
+Transformed text 2: 'מציעת';'
+------
+Conflict found for meaning 'middle': Pair ('mcy(t);', 'myc(th') counter=2
+Transformed text 1: 'מיצעתה'
+Transformed text 2: 'מציעתא;'
+------
+Conflict found for meaning 'middle': Pair ('mmcy(t)', 'myc(th') counter=2
+Transformed text 1: 'מיצעתה'
+Transformed text 2: 'ממציעתא'
+------
+Conflict found for meaning 'why?': Pair (")lm'", ')m)y') counter=4
+Transformed text 1: 'אמאי'
+Transformed text 2: 'אלמ''
+------
+Conflict found for meaning 'from': Pair ('mhqy$);', 'mnyhw') counter=1
+Transformed text 1: 'מניהו'
+Transformed text 2: 'מהקישא;'
+------
+Conflict found for meaning 'and, also | he': Pair ('w)yhw;', 'whw)') counter=7
+Transformed text 1: 'ואיהו;'
+Transformed text 2: 'והוא'
+------
+Conflict found for meaning 'and, also | he': Pair ('^w?hw)^', 'w)yhw;') counter=1
+Transformed text 1: 'ואיהו;'
+Transformed text 2: 'והוא'
+------
+Conflict found for meaning 'word, speech; thing': Pair ('mly', 'mmyl)') counter=1
+Transformed text 1: 'מלי'
+Transformed text 2: 'ממילא'
+------
+Conflict found for meaning 'end': Pair ('swP swP', 'syp);') counter=17
+Transformed text 1: 'סיפא;'
+Transformed text 2: 'סוף סוף'
+------
+Conflict found for meaning 'end': Pair ('lbswP;', 'swP swP') counter=1
+Transformed text 1: 'סוף סוף'
+Transformed text 2: 'לבסוף;'
+------
+Conflict found for meaning 'end': Pair ('lybswP;', 'swP swP') counter=1
+Transformed text 1: 'סוף סוף'
+Transformed text 2: 'ליבסוף;'
+------
+Conflict found for meaning 'end': Pair ('swP swP', "syp'") counter=1
+Transformed text 1: 'סוף סוף'
+Transformed text 2: 'סיפ''
+------
+Conflict found for meaning 'end': Pair ('swP swP', "syp';") counter=1
+Transformed text 1: 'סוף סוף'
+Transformed text 2: 'סיפ';'
+------
+Conflict found for meaning 'of, genitive particle': Pair ('drbyn)', 'md)byy') counter=1
+Transformed text 1: 'דרבינא'
+Transformed text 2: 'מדאביי'
+------
+Conflict found for meaning 'of, genitive particle | chief; teacher': Pair ('drb', 'drbyh;') counter=2
+Transformed text 1: 'דרביה;'
+Transformed text 2: 'דרב'
+------
+Conflict found for meaning 'to, for': Pair ('lhqy$);', 'lrbyn);') counter=1
+Transformed text 1: 'לרבינא;'
+Transformed text 2: 'להקישא;'
+------
+Conflict found for meaning 'who,which (relative) | when': Pair ('db(ydn)', '{h}<d>ky') counter=2
+Transformed text 1: 'דכי'
+Transformed text 2: 'דבעידנא'
+------
+Conflict found for meaning 'end': Pair (')syp)', 'swP swP') counter=10
+Transformed text 1: 'אסיפא'
+Transformed text 2: 'סוף סוף'
+------
+Conflict found for meaning 'end': Pair (')syp)', 'lbswP;') counter=2
+Transformed text 1: 'אסיפא'
+Transformed text 2: 'לבסוף;'
+------
+Conflict found for meaning 'end': Pair (')syp)', 'lybswP;') counter=2
+Transformed text 1: 'אסיפא'
+Transformed text 2: 'ליבסוף;'
+------
+Conflict found for meaning 'from': Pair ('mhqy$);', 'mynyhw') counter=2
+Transformed text 1: 'מיניהו'
+Transformed text 2: 'מהקישא;'
+------
+Conflict found for meaning 'end': Pair ('lbswP;', 'syp);') counter=3
+Transformed text 1: 'סיפא;'
+Transformed text 2: 'לבסוף;'
+------
+Conflict found for meaning 'end': Pair ('lybswP;', 'syp);') counter=3
+Transformed text 1: 'סיפא;'
+Transformed text 2: 'ליבסוף;'
+------
+Conflict found for meaning 'this': Pair ('h)y', 'h)y m)y;') counter=4
+Transformed text 1: 'האי מאי;'
+Transformed text 2: 'האי'
+------
+Conflict found for meaning 'in, with': Pair ('bhyq$);', 'bql nbw;') counter=1
+Transformed text 1: 'בקל נבו;'
+Transformed text 2: 'בהיקשא;'
+------
+Conflict found for meaning 'of, genitive particle': Pair ('dr)my', 'md)byy') counter=1
+Transformed text 1: 'דראמי'
+Transformed text 2: 'מדאביי'
+------
+Conflict found for meaning 'from': Pair ('mhqy$);', 'mynyh') counter=1
+Transformed text 1: 'מיניה'
+Transformed text 2: 'מהקישא;'
+------
+Conflict found for meaning 'to, for': Pair ('lhqy$);', 'lrb)') counter=2
+Transformed text 1: 'לרבא'
+Transformed text 2: 'להקישא;'
+------
+Conflict found for meaning 'to, for': Pair ('lhqy$);', 'lplg);') counter=1
+Transformed text 1: 'לפלגא;'
+Transformed text 2: 'להקישא;'
+------
+Conflict found for meaning 'one another; each other': Pair (')hddy;', 'hddy;') counter=4
+Transformed text 1: 'הדדי;'
+Transformed text 2: 'אהדדי;'
+------
+Conflict found for meaning 'of, genitive particle': Pair ('dy', 'mdrb)') counter=1
+Transformed text 1: 'מדרבא'
+Transformed text 2: 'די'
+------
+Conflict found for meaning 'of, genitive particle': Pair ('dpwM bdyt);', 'mdrb)') counter=1
+Transformed text 1: 'מדרבא'
+Transformed text 2: 'דפום בדיתא;'
+------
+Conflict found for meaning 'of, genitive particle': Pair ("dr'", 'mdrb)') counter=7
+Transformed text 1: 'מדרבא'
+Transformed text 2: 'דר''
+------
+Conflict found for meaning 'of, genitive particle': Pair ('dynwq)', 'mdrb)') counter=1
+Transformed text 1: 'מדרבא'
+Transformed text 2: 'דינוקא'
+------
+Conflict found for meaning 'of, genitive particle': Pair ('d(lm);', 'mdrb)') counter=1
+Transformed text 1: 'מדרבא'
+Transformed text 2: 'דעלמא;'
+------
+Conflict found for meaning 'of, genitive particle': Pair ('drb);', 'mdrb)') counter=1
+Transformed text 1: 'מדרבא'
+Transformed text 2: 'דרבא;'
+------
+Conflict found for meaning 'of, genitive particle': Pair ('drb', 'mdrb)') counter=1
+Transformed text 1: 'מדרבא'
+Transformed text 2: 'דרב'
+------
+Conflict found for meaning 'chief; teacher': Pair ('rb', 'rbK;') counter=5
+Transformed text 1: 'רבך;'
+Transformed text 2: 'רב'
+------
+Conflict found for meaning 'chief; teacher': Pair ('mdrb', 'rbK;') counter=1
+Transformed text 1: 'רבך;'
+Transformed text 2: 'מדרב'
+------
+Conflict found for meaning 'in, with': Pair ('bhyq$);', 'bpsx') counter=1
+Transformed text 1: 'בפסח'
+Transformed text 2: 'בהיקשא;'
+------
+Conflict found for meaning 'to, for': Pair ('l)my', 'lhqy$);') counter=1
+Transformed text 1: 'לאמי'
+Transformed text 2: 'להקישא;'
+------
+Conflict found for meaning 'three': Pair ('<tlt)#10#>', 'mtltyN') counter=2
+Transformed text 1: 'תלתא'
+Transformed text 2: 'מתלתין'
+------
+Conflict found for meaning 'in, with': Pair ('bhyq$);', 'bydyh') counter=1
+Transformed text 1: 'בידיה'
+Transformed text 2: 'בהיקשא;'
+------
+Conflict found for meaning 'and, also | end': Pair ('wmdsyph', 'wswP') counter=2
+Transformed text 1: 'ומדסיפה'
+Transformed text 2: 'וסוף'
+------
+Conflict found for meaning 'and, also | end': Pair ('wbswP', 'wmdsyph') counter=1
+Transformed text 1: 'ומדסיפה'
+Transformed text 2: 'ובסוף'
+------
+Conflict found for meaning 'to make ascend, bring upward | to offer up, sacrifice | to complete | to place over, upon': Pair ('msyq', 'wl){{}}^sw^qyh;') counter=2
+Transformed text 1: 'ולאסוקיה;'
+Transformed text 2: 'מסיק'
+------
+Conflict found for meaning 'to make ascend, bring upward | to offer up, sacrifice | to complete | to place over, upon': Pair ('dmsyq', 'wl){{}}^sw^qyh;') counter=1
+Transformed text 1: 'ולאסוקיה;'
+Transformed text 2: 'דמסיק'
+------
+Conflict found for meaning 'to make ascend, bring upward | to offer up, sacrifice | to complete | to place over, upon': Pair ('tsyq', 'wl){{}}^sw^qyh;') counter=1
+Transformed text 1: 'ולאסוקיה;'
+Transformed text 2: 'תסיק'
+------
+Conflict found for meaning 'to make ascend, bring upward | to offer up, sacrifice | to complete | to place over, upon': Pair ('l)swqy', 'wl){{}}^sw^qyh;') counter=1
+Transformed text 1: 'ולאסוקיה;'
+Transformed text 2: 'לאסוקי'
+------
+Conflict found for meaning 'to make ascend, bring upward | to offer up, sacrifice | to complete | to place over, upon': Pair ('wl){{}}^sw^qyh;', 'ysq') counter=1
+Transformed text 1: 'ולאסוקיה;'
+Transformed text 2: 'יסק'
+------
+Conflict found for meaning 'of, genitive particle': Pair ('d(wl);', 'md)byy') counter=1
+Transformed text 1: 'דעולא;'
+Transformed text 2: 'מדאביי'
+------
+Conflict found for meaning 'to, for': Pair ('lhqy$);', 'lyrdn);') counter=1
+Transformed text 1: 'לירדנא;'
+Transformed text 2: 'להקישא;'
+------
+Conflict found for meaning 'like': Pair ('kw)tyhw', 'ky') counter=8
+Transformed text 1: 'כואתיהו'
+Transformed text 2: 'כי'
+------
+Conflict found for meaning 'of, genitive particle': Pair ('dz(yry', 'md)byy') counter=1
+Transformed text 1: 'דזעירי'
+Transformed text 2: 'מדאביי'
+------
+Conflict found for meaning 'like': Pair ('kwtK', 'ky') counter=8
+Transformed text 1: 'כותך'
+Transformed text 2: 'כי'
+------
+Conflict found for meaning 'in, with': Pair ('bhw;', 'bhyq$);') counter=1
+Transformed text 1: 'בהו;'
+Transformed text 2: 'בהיקשא;'
+------
+Conflict found for meaning 'like': Pair ('^k^y', 'kwwtK') counter=1
+Transformed text 1: 'כי'
+Transformed text 2: 'כוותך'
+------
+Conflict found for meaning 'like': Pair ('^k^y', 'kwwtyh') counter=2
+Transformed text 1: 'כי'
+Transformed text 2: 'כוותיה'
+------
+Conflict found for meaning 'this (f.)': Pair ('h);', 'hd)') counter=3
+Transformed text 1: 'הא;'
+Transformed text 2: 'הדא'
+------
+Conflict found for meaning 'this (f.)': Pair (')hd);', 'h);') counter=1
+Transformed text 1: 'הא;'
+Transformed text 2: 'אהדא;'
+------
+Conflict found for meaning 'this (f.)': Pair ('h);', 'hd);') counter=1
+Transformed text 1: 'הא;'
+Transformed text 2: 'הדא;'
+------
+Conflict found for meaning 'this (f.)': Pair ('h);', 'mhd)') counter=1
+Transformed text 1: 'הא;'
+Transformed text 2: 'מהדא'
+------
+Conflict found for meaning 'of, genitive particle': Pair ('d)prhwrmyz', 'md)byy') counter=1
+Transformed text 1: 'דאפרהורמיז'
+Transformed text 2: 'מדאביי'
+------
+Conflict found for meaning 'of, genitive particle': Pair ('ds)bwr', 'md)byy') counter=1
+Transformed text 1: 'דסאבור'
+Transformed text 2: 'מדאביי'
+------
+Conflict found for meaning 'of, genitive particle': Pair ('drb);', 'md)byy') counter=1
+Transformed text 1: 'דרבא;'
+Transformed text 2: 'מדאביי'
+------
+Conflict found for meaning 'of, genitive particle': Pair ('dm(wN;', 'md)byy') counter=1
+Transformed text 1: 'דמעון;'
+Transformed text 2: 'מדאביי'
+------
+Conflict found for meaning 'to, for': Pair ('lbylwl', 'lhqy$);') counter=1
+Transformed text 1: 'לבילול'
+Transformed text 2: 'להקישא;'
+------
+Conflict found for meaning 'near': Pair ('mqrbN', 'qryb)') counter=1
+Transformed text 1: 'מקרבן'
+Transformed text 2: 'קריבא'
+------
+Conflict found for meaning 'near': Pair ('mqrbN;', 'qryb)') counter=2
+Transformed text 1: 'מקרבן;'
+Transformed text 2: 'קריבא'
+------
+Conflict found for meaning 'to, for': Pair ('lhqy$);', 'lyrdN') counter=1
+Transformed text 1: 'לירדן'
+Transformed text 2: 'להקישא;'
+------
+Conflict found for meaning 'to, for': Pair ('lhqy$);', 'lrb);') counter=2
+Transformed text 1: 'לרבא;'
+Transformed text 2: 'להקישא;'
+------

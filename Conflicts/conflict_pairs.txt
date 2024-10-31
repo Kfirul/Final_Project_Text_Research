@@ -1,0 +1,172 @@
+﻿Conflict found for meaning 'of, genitive particle': Pair ('dkl m)', 'drqy()') counter=1
+Transformed text 1: 'דרקיעא'
+Transformed text 2: 'דכל מא'
+------
+Conflict found for meaning 'person, someone': Pair (')yn$y', ')yny$') counter=3
+Transformed text 1: 'אינשי'
+Transformed text 2: 'איניש'
+------
+Conflict found for meaning 'from': Pair ('mhgrwny)', 'mynh') counter=1
+Transformed text 1: 'מהגרוניא'
+Transformed text 2: 'מינה'
+------
+Conflict found for meaning 'from': Pair ('mhgrwny)', 'mynyhw') counter=1
+Transformed text 1: 'מהגרוניא'
+Transformed text 2: 'מיניהו'
+------
+Conflict found for meaning 'from': Pair ('mhgrwny)', 'mnyh') counter=1
+Transformed text 1: 'מהגרוניא'
+Transformed text 2: 'מניה'
+------
+Conflict found for meaning 'a type of porridge': Pair ('ddys);', 'xbyC') counter=2
+Transformed text 1: 'חביץ'
+Transformed text 2: 'דדיסא;'
+------
+Conflict found for meaning 'before': Pair ('lqmyh', 'qmyh') counter=2
+Transformed text 1: 'לקמיה'
+Transformed text 2: 'קמיה'
+------
+Conflict found for meaning 'here! look!': Pair ('dh);', 'h)') counter=1
+Transformed text 1: 'הא'
+Transformed text 2: 'דהא;'
+------
+Conflict found for meaning 'he': Pair (')yhw', 'hw);') counter=5
+Transformed text 1: 'הוא;'
+Transformed text 2: 'איהו'
+------
+Conflict found for meaning 'who?': Pair ("m'd;", 'mny;') counter=1
+Transformed text 1: 'מ'ד;'
+Transformed text 2: 'מני;'
+------
+Conflict found for meaning 'he': Pair ('hw);', 'nyhw') counter=7
+Transformed text 1: 'ניהו'
+Transformed text 2: 'הוא;'
+------
+Conflict found for meaning 'he': Pair (')yhw', 'nyhw') counter=1
+Transformed text 1: 'ניהו'
+Transformed text 2: 'איהו'
+------
+Conflict found for meaning 'he': Pair ('hw)', 'nyhw') counter=4
+Transformed text 1: 'ניהו'
+Transformed text 2: 'הוא'
+------
+Conflict found for meaning 'of, genitive particle': Pair ('dkl m)', 'drbh') counter=1
+Transformed text 1: 'דרבה'
+Transformed text 2: 'דכל מא'
+------
+Conflict found for meaning 'like': Pair ('krb);', 'ky') counter=5
+Transformed text 1: 'כרבא;'
+Transformed text 2: 'כי'
+------
+Conflict found for meaning 'like': Pair ('krb);', 'kw)tyh') counter=1
+Transformed text 1: 'כרבא;'
+Transformed text 2: 'כואתיה'
+------
+Conflict found for meaning 'when': Pair ('kd', 'ky') counter=8
+Transformed text 1: 'כי'
+Transformed text 2: 'כד'
+------
+Conflict found for meaning 'like': Pair ("kr'", 'ky') counter=10
+Transformed text 1: 'כר''
+Transformed text 2: 'כי'
+------
+Conflict found for meaning 'like': Pair ("kr'", 'kw)tyh') counter=2
+Transformed text 1: 'כר''
+Transformed text 2: 'כואתיה'
+------
+Conflict found for meaning 'like': Pair ('krb', 'ky') counter=5
+Transformed text 1: 'כרב'
+Transformed text 2: 'כי'
+------
+Conflict found for meaning 'like': Pair ('krb', 'kw)tyh') counter=1
+Transformed text 1: 'כרב'
+Transformed text 2: 'כואתיה'
+------
+Conflict found for meaning 'like': Pair ('kw)tyh', 'ky') counter=2
+Transformed text 1: 'כי'
+Transformed text 2: 'כואתיה'
+------
+Conflict found for meaning 'only; alone': Pair ('lxwd;', 'lxwdyhw;') counter=1
+Transformed text 1: 'לחוד;'
+Transformed text 2: 'לחודיהו;'
+------
+Conflict found for meaning 'of, genitive particle': Pair ('dkl m)', "dr'") counter=3
+Transformed text 1: 'דר''
+Transformed text 2: 'דכל מא'
+------
+Conflict found for meaning 'why?': Pair (')m)y', 'lmh') counter=2
+Transformed text 1: 'למה'
+Transformed text 2: 'אמאי'
+------
+Conflict found for meaning 'like': Pair ('kmr', 'ky') counter=5
+Transformed text 1: 'כמר'
+Transformed text 2: 'כי'
+------
+Conflict found for meaning 'like': Pair ('kmr', 'kw)tyh') counter=1
+Transformed text 1: 'כמר'
+Transformed text 2: 'כואתיה'
+------
+Conflict found for meaning 'full': Pair ('ml)', 'mly') counter=1
+Transformed text 1: 'מלא'
+Transformed text 2: 'מלי'
+------
+Conflict found for meaning 'he': Pair (')yhw', 'hw)') counter=2
+Transformed text 1: 'הוא'
+Transformed text 2: 'איהו'
+------
+Conflict found for meaning 'of, genitive particle': Pair ('dkl m)', "dr';") counter=1
+Transformed text 1: 'דר';'
+Transformed text 2: 'דכל מא'
+------
+Conflict found for meaning 'who,which (relative) | when': Pair ('dkd', 'dky') counter=1
+Transformed text 1: 'דכי'
+Transformed text 2: 'דכד'
+------
+Conflict found for meaning 'who?': Pair (')m)N', 'mny;') counter=1
+Transformed text 1: 'אמאן'
+Transformed text 2: 'מני;'
+------
+Conflict found for meaning 'after': Pair ('btr', 'mbtr') counter=1
+Transformed text 1: 'מבתר'
+Transformed text 2: 'בתר'
+------
+Conflict found for meaning 'after': Pair ('btryh', 'mbtr') counter=1
+Transformed text 1: 'מבתר'
+Transformed text 2: 'בתריה'
+------
+Conflict found for meaning 'like': Pair ("kb'$", 'ky') counter=5
+Transformed text 1: 'כב'ש'
+Transformed text 2: 'כי'
+------
+Conflict found for meaning 'like': Pair ("kb'$", 'kw)tyh') counter=1
+Transformed text 1: 'כב'ש'
+Transformed text 2: 'כואתיה'
+------
+Conflict found for meaning 'pair': Pair ("zwg'", 'zww)') counter=1
+Transformed text 1: 'זוג''
+Transformed text 2: 'זווא'
+------
+Conflict found for meaning 'who?': Pair ('km)N', 'mny;') counter=1
+Transformed text 1: 'כמאן'
+Transformed text 2: 'מני;'
+------
+Conflict found for meaning 'who?': Pair ("m'd", 'mny;') counter=1
+Transformed text 1: 'מ'ד'
+Transformed text 2: 'מני;'
+------
+Conflict found for meaning 'of, genitive particle': Pair ('dkl m)', 'drbyN') counter=1
+Transformed text 1: 'דרבין'
+Transformed text 2: 'דכל מא'
+------
+Conflict found for meaning 'daughter': Pair ('brtyh', 'bt') counter=1
+Transformed text 1: 'בת'
+Transformed text 2: 'ברתיה'
+------
+Conflict found for meaning 'of, genitive particle': Pair ('dkl m)', 'drmy') counter=1
+Transformed text 1: 'דרמי'
+Transformed text 2: 'דכל מא'
+------
+Conflict found for meaning 'when': Pair ('dky', 'kd') counter=2
+Transformed text 1: 'דכי'
+Transformed text 2: 'כד'
+------
