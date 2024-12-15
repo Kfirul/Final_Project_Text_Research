@@ -50,11 +50,9 @@ Conflict found for meaning 'chief; teacher': Pair ('rb', 'rbK') counter=31
 Transformed text 1: 'רב'
 Transformed text 2: 'רבך'
 ------
-Conflict found for meaning 'chief; teacher': Pair ('r?b?', 'rbyh') counter=1
+Conflict found for meaning 'chief; teacher': Pair ('r?b?', 'rbyh') counter=2
 Transformed text 1: 'רב'
 Transformed text 2: 'רביה'
-------
-Conflict found for meaning 'chief; teacher': Pair ('r?b?', 'rbK') counter=1
 Transformed text 1: 'רב'
 Transformed text 2: 'רבך'
 ------
